@@ -1,0 +1,12 @@
+# Core dependencies (if any)
+# No external dependencies required for basic functionality
+
+# Development dependencies
+flake8>=4.0.0
+black>=22.0.0
+mypy>=0.950
+pytest>=6.0.0
+pytest-cov>=3.0.0
+
+# Optional: For enhanced development experience
+pre-commit>=2.20.0 
